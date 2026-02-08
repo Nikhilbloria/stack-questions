@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nikhilbloria/stack-questions/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Nikhilbloria/stack-questions/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Nikhilbloria/stack-questions/tree/master/0496-next-greater-element-i) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Nikhilbloria/stack-questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Tree
@@ -40,4 +41,8 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Nikhilbloria/stack-questions/tree/master/0496-next-greater-element-i) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Nikhilbloria/stack-questions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
