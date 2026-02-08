@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Nikhilbloria/stack-questions/tree/master/0020-valid-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Nikhilbloria/stack-questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Dynamic Programming
 |  |
@@ -12,6 +13,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Nikhilbloria/stack-questions/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/Nikhilbloria/stack-questions/tree/master/0496-next-greater-element-i) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Nikhilbloria/stack-questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Tree
