@@ -18,6 +18,7 @@
 | [0155-min-stack](https://github.com/Nikhilbloria/stack-questions/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/Nikhilbloria/stack-questions/tree/master/0224-basic-calculator) |
 | [0496-next-greater-element-i](https://github.com/Nikhilbloria/stack-questions/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Nikhilbloria/stack-questions/tree/master/0739-daily-temperatures) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Nikhilbloria/stack-questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Tree
 |  |
@@ -38,6 +39,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Nikhilbloria/stack-questions/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Nikhilbloria/stack-questions/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,6 +48,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Nikhilbloria/stack-questions/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Nikhilbloria/stack-questions/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
