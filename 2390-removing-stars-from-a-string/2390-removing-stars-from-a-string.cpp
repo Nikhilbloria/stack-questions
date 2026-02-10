@@ -13,10 +13,6 @@ public:
                 }
             }
         }
-            // string sto = " ";
-            // for(int i=0;i<n;i++){
-            //     sto = st.top(s[i]);
-            // }
             string sto;
             while(!st.empty()){
                 sto.push_back(st.top());
