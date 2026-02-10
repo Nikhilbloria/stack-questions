@@ -23,33 +23,18 @@
 //     }
 // };
 
-// class Solution {
-// public:
-//     string removeStars(string s) {
-//         string result;
-//         for(int i =0;i<s.length();i++){
-//             if(s[i]=='*'){
-//                 result.pop_back();
-//             }else{
-//                 result.push_back(s[i]);
-//             }
-//         }return result;
-//     }
-// };
 class Solution {
 public:
     string removeStars(string s) {
-
-        string result = "";
-
-        for (char c : s) {
-            if (c == '*') {
+        string result;
+        for(int i =0;i<s.length();i++){
+            if(s[i]=='*'){
                 result.pop_back();
-            } else {
-                result.push_back(c);
+            }else{
+                result.push_back(s[i]);
             }
-        }
-
-        return result;
+        }return result;
     }
 };
+// “For each character in the string s, take it one by one and store it in c.
+// for (char c : s)
