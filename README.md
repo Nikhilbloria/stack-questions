@@ -40,10 +40,12 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Nikhilbloria/stack-questions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Nikhilbloria/stack-questions/tree/master/0739-daily-temperatures) |
+| [3719-longest-balanced-subarray-i](https://github.com/Nikhilbloria/stack-questions/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Nikhilbloria/stack-questions/tree/master/0496-next-greater-element-i) |
+| [3719-longest-balanced-subarray-i](https://github.com/Nikhilbloria/stack-questions/tree/master/3719-longest-balanced-subarray-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -57,6 +59,7 @@
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/Nikhilbloria/stack-questions/tree/master/1382-balance-a-binary-search-tree) |
+| [3719-longest-balanced-subarray-i](https://github.com/Nikhilbloria/stack-questions/tree/master/3719-longest-balanced-subarray-i) |
 ## Greedy
 |  |
 | ------- |
@@ -73,4 +76,12 @@
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/Nikhilbloria/stack-questions/tree/master/0224-basic-calculator) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/Nikhilbloria/stack-questions/tree/master/3719-longest-balanced-subarray-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/Nikhilbloria/stack-questions/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
