@@ -19,6 +19,7 @@
 | [0155-min-stack](https://github.com/Nikhilbloria/stack-questions/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/Nikhilbloria/stack-questions/tree/master/0224-basic-calculator) |
 | [0496-next-greater-element-i](https://github.com/Nikhilbloria/stack-questions/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/Nikhilbloria/stack-questions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Nikhilbloria/stack-questions/tree/master/0739-daily-temperatures) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Nikhilbloria/stack-questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2390-removing-stars-from-a-string](https://github.com/Nikhilbloria/stack-questions/tree/master/2390-removing-stars-from-a-string) |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Nikhilbloria/stack-questions/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/Nikhilbloria/stack-questions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Nikhilbloria/stack-questions/tree/master/0739-daily-temperatures) |
 | [3719-longest-balanced-subarray-i](https://github.com/Nikhilbloria/stack-questions/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
@@ -89,5 +91,6 @@
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Nikhilbloria/stack-questions/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/Nikhilbloria/stack-questions/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
