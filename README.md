@@ -75,6 +75,7 @@
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Nikhilbloria/stack-questions/tree/master/0029-divide-two-integers) |
 | [0224-basic-calculator](https://github.com/Nikhilbloria/stack-questions/tree/master/0224-basic-calculator) |
 ## Recursion
 |  |
@@ -93,4 +94,8 @@
 | ------- |
 | [0735-asteroid-collision](https://github.com/Nikhilbloria/stack-questions/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/Nikhilbloria/stack-questions/tree/master/2390-removing-stars-from-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Nikhilbloria/stack-questions/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
