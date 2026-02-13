@@ -8,6 +8,7 @@
 | [0224-basic-calculator](https://github.com/Nikhilbloria/stack-questions/tree/master/0224-basic-calculator) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Nikhilbloria/stack-questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2390-removing-stars-from-a-string](https://github.com/Nikhilbloria/stack-questions/tree/master/2390-removing-stars-from-a-string) |
+| [3713-longest-balanced-substring-i](https://github.com/Nikhilbloria/stack-questions/tree/master/3713-longest-balanced-substring-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Nikhilbloria/stack-questions/tree/master/0496-next-greater-element-i) |
+| [3713-longest-balanced-substring-i](https://github.com/Nikhilbloria/stack-questions/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Nikhilbloria/stack-questions/tree/master/3719-longest-balanced-subarray-i) |
 ## Monotonic Stack
 |  |
@@ -98,4 +100,12 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Nikhilbloria/stack-questions/tree/master/0029-divide-two-integers) |
+## Counting
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/Nikhilbloria/stack-questions/tree/master/3713-longest-balanced-substring-i) |
+## Enumeration
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/Nikhilbloria/stack-questions/tree/master/3713-longest-balanced-substring-i) |
 <!---LeetCode Topics End-->
