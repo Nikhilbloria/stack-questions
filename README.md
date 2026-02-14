@@ -12,6 +12,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0799-champagne-tower](https://github.com/Nikhilbloria/stack-questions/tree/master/0799-champagne-tower) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Nikhilbloria/stack-questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Stack
 |  |
