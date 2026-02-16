@@ -65,6 +65,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Nikhilbloria/stack-questions/tree/master/0190-reverse-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/Nikhilbloria/stack-questions/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/Nikhilbloria/stack-questions/tree/master/3719-longest-balanced-subarray-i) |
 ## Greedy
@@ -101,6 +102,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Nikhilbloria/stack-questions/tree/master/0029-divide-two-integers) |
+| [0190-reverse-bits](https://github.com/Nikhilbloria/stack-questions/tree/master/0190-reverse-bits) |
 ## Counting
 |  |
 | ------- |
