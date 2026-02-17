@@ -103,6 +103,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/Nikhilbloria/stack-questions/tree/master/0029-divide-two-integers) |
 | [0190-reverse-bits](https://github.com/Nikhilbloria/stack-questions/tree/master/0190-reverse-bits) |
+| [0401-binary-watch](https://github.com/Nikhilbloria/stack-questions/tree/master/0401-binary-watch) |
 ## Counting
 |  |
 | ------- |
@@ -111,4 +112,8 @@
 |  |
 | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/Nikhilbloria/stack-questions/tree/master/3713-longest-balanced-substring-i) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/Nikhilbloria/stack-questions/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
